@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpaceProgram2D.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Dev\2DRocketSimulator\UnrealProject\SpaceProgram2D\Intermediate\Build\Win64\SpaceProgram2DEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Dev\2DRocketSimulator\UnrealProject\SpaceProgram2D\Intermediate\Build\Win64\UE4Editor\Development\SpaceProgram2D\SpaceProgram2D.cpp.obj"
+"D:\Dev\2DRocketSimulator\UnrealProject\SpaceProgram2D\Intermediate\Build\Win64\UE4Editor\Development\SpaceProgram2D\SpaceProgram2DGameModeBase.cpp.obj"
+"D:\Dev\2DRocketSimulator\UnrealProject\SpaceProgram2D\Intermediate\Build\Win64\UE4Editor\Development\SpaceProgram2D\SpaceProgram2D.init.gen.cpp.obj"
+"D:\Dev\2DRocketSimulator\UnrealProject\SpaceProgram2D\Intermediate\Build\Win64\UE4Editor\Development\SpaceProgram2D\SpaceProgram2DGameModeBase.gen.cpp.obj"
+"D:\Dev\2DRocketSimulator\UnrealProject\SpaceProgram2D\Intermediate\Build\Win64\UE4Editor\Development\SpaceProgram2D\PCLaunch.rc.res"
+/OUT:"D:\Dev\2DRocketSimulator\UnrealProject\SpaceProgram2D\Intermediate\Build\Win64\UE4Editor\Development\SpaceProgram2D\UE4Editor-SpaceProgram2D.lib"

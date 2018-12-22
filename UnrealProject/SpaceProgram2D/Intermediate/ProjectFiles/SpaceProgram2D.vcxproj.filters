@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpaceProgram2D.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AA600D4A-02D3-446A-9EC7-316F4B7FB9C5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpaceProgram2D.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpaceProgram2DEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{641604D1-44CB-4AA1-98CA-B577E15C65F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SpaceProgram2D">
+      <UniqueIdentifier>{37DCE748-96AB-47EF-9673-0B8D3786E3E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpaceProgram2D\SpaceProgram2D.Build.cs">
+      <Filter>Source\SpaceProgram2D</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpaceProgram2D\SpaceProgram2D.cpp">
+      <Filter>Source\SpaceProgram2D</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceProgram2D\SpaceProgram2D.h">
+      <Filter>Source\SpaceProgram2D</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceProgram2D\SpaceProgram2DGameModeBase.cpp">
+      <Filter>Source\SpaceProgram2D</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceProgram2D\SpaceProgram2DGameModeBase.h">
+      <Filter>Source\SpaceProgram2D</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
