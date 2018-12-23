@@ -645,3 +645,249 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.12.23-21.33.34:360][  0]LogSlate: Took 0.006549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2018.12.23-21.33.34:370][  0]LogSlate: Took 0.004554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2018.12.23-21.33.34:398][  0]LogSlate: Took 0.015938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.23-21.33.34:603][  0]LogRenderer: Reallocating scene render targets to support 628x372 Format 10 NumSamples 1 (Frame:1).
+[2018.12.23-21.33.34:940][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2018.12.23-21.33.34:940][  0]LogLoad: (Engine Initialization) Total time: 53.81 seconds
+[2018.12.23-21.33.34:940][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.23-21.33.35:062][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.23-21.33.35:317][  2]LogAssetRegistry: Asset discovery search completed in 26.4368 seconds
+[2018.12.23-21.33.35:320][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.23-21.33.35:320][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000107 seconds (updated 0 objects)
+[2018.12.23-21.36.28:408][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-21.36.28:508][ 13]LogSlate: Window 'Plugins' being destroyed
+[2018.12.23-21.36.28:514][ 13]LogSlate: Window 'Plugins' being destroyed
+[2018.12.23-21.36.28:515][ 13]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.12.23-21.37.10:733][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.23-21.37.39:221][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.23-21.37.40:446][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.23-21.38.36:172][242]LogContentBrowser: Native class hierarchy updated for 'ScreenShotComparisonTools' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.12.23-21.38.36:404][242]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for D:/Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Automation/Comparisons. Error: Le chemin d’accès spécifié est introuvable. (0x00000003)
+[2018.12.23-21.38.36:577][242]LogProfilerClient: Subscribe Session: 423C01644ECC6D953483AD818534F1FF
+[2018.12.23-21.38.36:591][242]LogProfilerService: Subscribe Session: 423C01644ECC6D953483AD818534F1FF, Instance: 6EB0BE9A4F6EDC8B92E822A29761DDC1
+[2018.12.23-21.38.42:042][243]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0013 seconds. Added 2 classes and 2 folders.
+[2018.12.23-21.39.08:033][660]AutomationTestingLog: New page: -----Test Run 4----
+[2018.12.23-21.39.08:033][660]AutomationTestingLog: -----Test Run 4----
+[2018.12.23-21.39.08:095][661]LogSlate: Took 0.043132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.12.23-21.43.51:663][632]AutomationTestingLog: New page: -----Test Run 5----
+[2018.12.23-21.43.51:663][632]AutomationTestingLog: -----Test Run 5----
+[2018.12.23-21.43.51:716][632]Display: Running Automation: 'UObject.Class AttemptToFindUninitializedScriptStructMembers' (Class Name: 'FAutomationTestAttemptToFindUninitializedScriptStructMembers')
+[2018.12.23-21.43.51:762][634]...Automation Test Succeeded (Class AttemptToFindUninitializedScriptStructMembers)
+[2018.12.23-21.43.51:762][634]AutomationTestingLog: ...Automation Test Succeeded (Class AttemptToFindUninitializedScriptStructMembers)
+[2018.12.23-21.43.54:999][822]LogSlate: Window 'Message Log' being destroyed
+[2018.12.23-21.43.55:004][822]LogSlate: Window 'Message Log' being destroyed
+[2018.12.23-21.46.09:675][443]LogSlate: Window 'Session Frontend' being destroyed
+[2018.12.23-21.46.09:682][443]LogSlate: Window 'Session Frontend' being destroyed
+[2018.12.23-21.46.16:699][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.23-21.46.19:474][ 17]Cmd: DELETE
+[2018.12.23-21.46.19:474][ 17]Cmd: ACTOR DELETE
+[2018.12.23-21.46.19:955][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.23-21.46.20:062][ 17]LogEditorActor: Deleted 1 Actors (0.349 secs)
+[2018.12.23-21.46.25:557][344]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.12.23-21.46.25:907][345]Cmd: DELETE
+[2018.12.23-21.46.25:907][345]Cmd: ACTOR DELETE
+[2018.12.23-21.46.25:912][345]LogEditorActor: Deleted Actor: SkyLight
+[2018.12.23-21.46.25:968][345]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.12.23-21.46.28:560][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-21.46.28:971][517]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.12.23-21.46.29:021][517]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.12.23-21.46.29:479][540]LogEditorActor: Deleted Actor: PlayerStart
+[2018.12.23-21.46.29:527][540]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.12.23-21.46.30:073][566]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.12.23-21.46.30:118][566]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.12.23-21.46.30:629][595]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.12.23-21.46.30:677][595]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.12.23-21.46.32:065][676]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.12.23-21.46.32:109][676]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.12.23-21.46.40:263][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-21.46.58:233][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-21.47.03:860][522]LogEditor: Attempting to add actor of class 'PaperTileMapActor' to level at -930.00,-580.00,730.00
+[2018.12.23-21.47.08:803][800]LogEditor: Attempting to add actor of class 'PaperTileMapActor' to level at -930.00,-580.00,730.00
+[2018.12.23-21.47.16:609][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-21.47.17:512][316]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2018.12.23-21.47.17:558][316]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2018.12.23-21.48.14:528][546]LogSlate: Took 0.000553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.23-21.48.47:008][443]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.12.23-21.48.53:354][816]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.12.23-21.48.55:090][919]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.12.23-21.49.03:044][389]LogEditorViewport: Clicking Background
+[2018.12.23-21.49.12:842][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-21.49.13:022][561]LogSlate: Took 0.000571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.23-21.49.13:039][561]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/NewPaperTileSet.NewPaperTileSet
+[2018.12.23-21.49.13:476][561]LogSlate: Took 0.000590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.23-21.49.52:171][368]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-21.49.52:179][368]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-21.50.46:014][454]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.12.23-21.50.46:322][454]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.23-21.50.46:322][454]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.12.23-21.50.46:403][454]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.12.23-21.50.46:506][454]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.23-21.50.46:717][454]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.23-21.50.46:717][454]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.23-21.50.46:717][454]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.12.23-21.50.47:462][454]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.23-21.50.47:527][454]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.23-21.50.47:576][454]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.23-21.50.47:651][454]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.23-21.50.47:731][454]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.12.23-21.50.47:789][454]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.12.23-21.50.47:864][454]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.12.23-21.50.48:023][454]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.12.23-21.50.48:220][454]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.12.23-21.50.55:362][775]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.12.23-21.50.58:610][959]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.12.23-21.50.58:640][960]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.12.23-21.51.04:693][315]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.12.23-21.51.07:749][495]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.12.23-21.51.07:913][504]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.12.23-21.51.15:938][874]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.12.23-21.51.15:938][874]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.12.23-21.51.15:938][874]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.12.23-21.51.24:086][350]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.12.23-21.51.26:447][488]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.12.23-21.51.28:695][618]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.23-21.51.37:836][119]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.23-21.51.38:931][144]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.23-21.51.40:303][182]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.23-21.51.44:065][286]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.23-21.51.45:522][323]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.23-21.51.49:965][353]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.23-21.51.49:965][353]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.23-21.52.03:621][554]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Untitled_1_Auto14D2A218E4A5B2F0E0F509B8FD959F0B0.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.12.23-21.52.03:685][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.539
+[2018.12.23-21.52.03:685][554]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.539
+[2018.12.23-21.52.03:700][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewPaperTileSet] ([1] browsable assets)...
+[2018.12.23-21.52.03:749][554]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/NewPaperTileSet.NewPaperTileSet]
+[2018.12.23-21.52.03:749][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewPaperTileSet]
+[2018.12.23-21.52.03:761][554]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/NewPaperTileSet_Auto1BEF149F6491E424E7EC681A75AD3BA72.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Autosaves/Game/NewPaperTileSet_Auto1.uasset'
+[2018.12.23-21.52.03:765][554]LogFileHelpers: Auto-saving content packages took 0.068
+[2018.12.23-21.53.51:832][224]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2018.12.23-21.53.51:876][224]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.12.23-22.01.19:159][686]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/NewPaperTileSet.NewPaperTileSet
+[2018.12.23-22.02.06:678][551]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Untitled_1_Auto221A4673E47BF3F6CD6133197C661BEBA.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2018.12.23-22.02.06:688][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 2.614
+[2018.12.23-22.02.06:688][551]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.614
+[2018.12.23-22.02.11:637][718]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-22.02.11:643][718]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-22.02.26:392][589]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.12.23-22.02.28:881][729]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.12.23-22.02.32:604][948]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.12.23-22.02.58:210][247]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/NewPaperTileSet.NewPaperTileSet
+[2018.12.23-22.03.08:683][663]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.23-22.12.07:206][694]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Untitled_1_Auto34E93FBE542A01512EB36268E4F2CDEAE.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2018.12.23-22.12.07:212][694]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.310
+[2018.12.23-22.12.07:212][694]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.310
+[2018.12.23-22.12.16:394][797]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-22.12.16:402][797]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-22.21.25:438][117]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/NewPaperTileSet.NewPaperTileSet
+[2018.12.23-22.22.36:893][563]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.23-22.22.39:214][563]LogTexture: Display: Building textures: PlateformerTilesByEris (RGBA16F, 256X256)
+[2018.12.23-22.22.42:505][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.044
+[2018.12.23-22.22.42:507][738]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewPaperTileSet] ([1] browsable assets)...
+[2018.12.23-22.22.42:524][738]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/NewPaperTileSet.NewPaperTileSet]
+[2018.12.23-22.22.42:524][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewPaperTileSet]
+[2018.12.23-22.22.42:553][738]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/NewPaperTileSet_Auto4E48BB10E4BD98587026FD5B8F7A020B3.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Autosaves/Game/NewPaperTileSet_Auto4.uasset'
+[2018.12.23-22.22.42:557][738]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlateformerTilesByEris] ([1] browsable assets)...
+[2018.12.23-22.22.42:574][738]OBJ SavePackage:     Rendered thumbnail for [CurveLinearColorAtlas /Game/PlateformerTilesByEris.PlateformerTilesByEris]
+[2018.12.23-22.22.42:574][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlateformerTilesByEris]
+[2018.12.23-22.22.42:629][738]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/PlateformerTilesByEris_Auto4F412F57D4E96C842007298BA58DE2CED.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/Autosaves/Game/PlateformerTilesByEris_Auto4.uasset'
+[2018.12.23-22.22.42:633][738]LogFileHelpers: Auto-saving content packages took 0.127
+[2018.12.23-22.25.02:882][681]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-22.25.02:891][681]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-22.25.22:931][269]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.23-22.25.25:224][394]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/NewPaperTileSet.NewPaperTileSet
+[2018.12.23-22.25.34:484][752]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-22.25.34:491][752]LogSlate: Window 'NewPaperTileSet*' being destroyed
+[2018.12.23-22.27.34:968][ 15]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.360 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.23-22.27.57:477][358]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/SimpleTileMap.SimpleTileMap
+[2018.12.23-22.27.58:155][358]LogRenderer: Reallocating scene render targets to support 832x612 Format 10 NumSamples 1 (Frame:1).
+[2018.12.23-22.29.02:722][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-22.29.02:840][860]LogSlate: Window 'SimpleTileMap*' being destroyed
+[2018.12.23-22.29.02:848][860]LogSlate: Window 'SimpleTileMap*' being destroyed
+[2018.12.23-22.29.47:514][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Downloads/PlatformTiles_brownNature_ByEris/Tiles 64x64/Tiles_64x64.png)
+[2018.12.23-22.29.47:576][117]LogTexture: Display: Building textures: Tiles_64x64 (AutoDXT, 512X512)
+[2018.12.23-22.29.55:518][362]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Downloads/PlatformTiles_brownNature_ByEris/BackgroundGradient.png)
+[2018.12.23-22.29.55:574][362]LogTexture: Display: Building textures: BackgroundGradient (AutoDXT, 1280X1472)
+[2018.12.23-22.30.17:937][544]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.23-22.30.19:278][613]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/SimpleTileMap.SimpleTileMap
+[2018.12.23-22.30.23:417][842]LogSlate: Window 'SimpleTileMap*' being destroyed
+[2018.12.23-22.30.23:424][842]LogSlate: Window 'SimpleTileMap*' being destroyed
+[2018.12.23-22.30.27:438][955]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.23-22.31.22:948][ 29]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/PlateformerTileMapByEris.PlateformerTileMapByEris
+[2018.12.23-22.33.23:100][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlateformerTileMapByEris" FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/PlateformerTileMapByEris.uasset" SILENT=true
+[2018.12.23-22.33.23:149][523]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/PlateformerTileMapByErisAA20F5DD4F7744C8CA977FB2E885A205.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/PlateformerTileMapByEris.uasset'
+[2018.12.23-22.34.05:008][853]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.23-22.34.10:135][146]LogSlate: Window 'PlateformerTileMapByEris*' being destroyed
+[2018.12.23-22.34.10:142][146]LogSlate: Window 'PlateformerTileMapByEris*' being destroyed
+[2018.12.23-22.34.21:616][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlateformerTileMapByEris" FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/PlateformerTileMapByEris.uasset" SILENT=true
+[2018.12.23-22.34.21:667][817]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/PlateformerTileMapByEris99870C1244B8567AE139BC87EB20B5EA.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/PlateformerTileMapByEris.uasset'
+[2018.12.23-22.34.41:537][591]LogSlate: Window 'Save Level As' being destroyed
+[2018.12.23-22.34.41:829][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.23-22.34.42:045][591]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/MainLevel9CE50928447ABFD2FD760BA097C76235.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap'
+[2018.12.23-22.34.42:079][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel_BuiltData" FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel_BuiltData.uasset" SILENT=true
+[2018.12.23-22.34.42:122][591]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/MainLevel_BuiltDataE9F76B21453BFA034A721AA68688E498.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel_BuiltData.uasset'
+[2018.12.23-22.34.42:137][591]LogFileHelpers: Saving map 'MainLevel' took 0.542
+[2018.12.23-22.34.42:138][591]Cmd: MAP LOAD FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.23-22.34.42:167][591]LightingResults: New page: Lighting Build
+[2018.12.23-22.34.42:169][591]LoadErrors: New page: Loading map: MainLevel.umap
+[2018.12.23-22.34.42:172][591]MapCheck: New page: Map Check
+[2018.12.23-22.34.42:172][591]LightingResults: New page: Lighting Build
+[2018.12.23-22.34.42:252][591]LogAIModule: Creating AISystem for world MainLevel
+[2018.12.23-22.34.42:383][591]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.23-22.34.42:484][591]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.23-22.34.42:484][591]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,593ms to complete.
+[2018.12.23-22.34.42:484][591]LogFileHelpers: Loading map 'MainLevel' took 0.347
+[2018.12.23-22.35.21:017][683]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2018.12.23-22.35.34:963][492]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.352 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.23-22.36.28:946][528]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.23-22.36.29:023][528]LightingResults: New page: Lighting Build
+[2018.12.23-22.36.29:024][528]MapCheck: New page: Map Check
+[2018.12.23-22.36.29:024][528]LightingResults: New page: Lighting Build
+[2018.12.23-22.36.29:127][528]LogAIModule: Creating AISystem for world Untitled
+[2018.12.23-22.36.29:226][528]LoadErrors: New page: New Map
+[2018.12.23-22.36.29:262][528]LogAIModule: Creating AISystem for world MainLevel
+[2018.12.23-22.36.40:170][ 63]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Sky_Sphere.BP_Sky_Sphere
+[2018.12.23-22.36.41:960][ 63]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0066 seconds. Added 117 classes and 0 folders.
+[2018.12.23-22.36.48:319][218]LogSlate: Took 0.047667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.23-22.37.09:255][396]LogSlate: Window 'BP_Sky_Sphere*' being destroyed
+[2018.12.23-22.37.09:263][396]LogSlate: Window 'BP_Sky_Sphere*' being destroyed
+[2018.12.23-22.37.13:748][522]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.23-22.37.43:744][618]LogSlate: Window 'Save Level As' being destroyed
+[2018.12.23-22.37.43:785][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.23-22.37.43:857][618]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/MainLevelC20E6DEC41EF804AC6B9268DBE3AD578.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap'
+[2018.12.23-22.37.43:893][618]LogFileHelpers: Saving map 'MainLevel' took 0.140
+[2018.12.23-22.38.35:130][583]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.219 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.23-22.40.28:453][219]LogEditorViewport: Clicking Background
+[2018.12.23-22.40.34:142][417]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.12.23-22.40.43:397][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-22.41.59:577][357]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.12.23-22.43.20:084][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-22.43.55:784][971]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/BackgroundSpriteByEris.BackgroundSpriteByEris
+[2018.12.23-22.43.56:158][971]LogRenderer: Reallocating scene render targets to support 1084x612 Format 10 NumSamples 1 (Frame:1).
+[2018.12.23-22.44.07:839][596]LogSlate: Window 'BackgroundSpriteByEris*' being destroyed
+[2018.12.23-22.44.07:846][596]LogSlate: Window 'BackgroundSpriteByEris*' being destroyed
+[2018.12.23-22.44.37:290][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.23-22.44.49:962][ 89]Cmd: TRANSACTION UNDO
+[2018.12.23-22.44.49:962][ 89]LogEditorTransaction: Undo Add Component
+[2018.12.23-22.44.59:609][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-22.45.07:967][113]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundSpriteByEris)
+[2018.12.23-22.45.13:363][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-22.45.17:303][666]Cmd: TRANSACTION UNDO
+[2018.12.23-22.45.17:303][666]LogEditorTransaction: Undo Set Rotation
+[2018.12.23-22.45.34:912][719]LogEditorViewport: Clicking Background
+[2018.12.23-22.45.36:563][818]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BackgroundSpriteByEris)
+[2018.12.23-22.45.38:706][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-22.47.11:593][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.23-22.47.11:613][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.23-22.47.11:699][493]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/MainLevelF35AF66A4D3BB87679C2C3B53545ADC1.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap'
+[2018.12.23-22.47.55:440][ 39]Cmd: TRANSACTION UNDO
+[2018.12.23-22.47.55:440][ 39]LogEditorTransaction: Undo Move Actors
+[2018.12.23-22.47.57:811][177]Cmd: TRANSACTION UNDO
+[2018.12.23-22.47.57:811][177]LogEditorTransaction: Undo Attach actors
+[2018.12.23-22.47.59:857][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.23-22.50.03:802][977]EditorErrors: New page: Actor attachment
+[2018.12.23-22.50.05:622][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.23-22.50.05:919][ 81]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/MainLevel34F7A94B48D0CCA0898EAE879D0589F5.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap'
+[2018.12.23-22.50.13:469][502]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.12.23-22.50.16:471][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.23-22.50.16:496][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.23-22.50.16:777][670]LogSavePackage: Moving '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Saved/MainLevelE391FC0B49072A9810B6C69DC2ECC917.tmp' to '../../../../../../Dev/2DRocketSimulator/UnrealProject/SpaceProgram2D/Content/MainLevel.umap'
